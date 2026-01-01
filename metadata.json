@@ -1,0 +1,7 @@
+{
+  "name": "Level Up Flooring Experts - ConstructionTech CRM & Estimator",
+  "description": "Raising the standard in flooring. A high-fidelity prototype for flooring professionals, combining technical AR measurement tools with CRM and professional budgeting logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
